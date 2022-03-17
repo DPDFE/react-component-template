@@ -1,2 +1,2 @@
-# react-component-template
+# react-library-template
 开箱即用
